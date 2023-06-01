@@ -7,7 +7,7 @@
 - [致谢](#致谢)
 
 ## 简介
-PyTorch code for IET Computer Vision paper ["DSGEM: Dual Scene Graph Enhancement Module based Visual Question Answering"](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12186).
+PyTorch code for 2023 IET Computer Vision paper ["DSGEM: Dual Scene Graph Enhancement Module based Visual Question Answering"](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12186).
 
 ## 论文摘要
 Visual Question Answering (VQA) aims to appropriately answer a text question by understanding the image content. 
